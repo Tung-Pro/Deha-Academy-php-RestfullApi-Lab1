@@ -68,7 +68,7 @@ Delete Post
 
 ## Feature Test
 
-### Create tets
+### Create test
 
     php artisan make:test Posts/CreatePostTest
     php artisan make:test Posts/DeletePostTest
