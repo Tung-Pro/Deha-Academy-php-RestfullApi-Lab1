@@ -3,7 +3,7 @@ Nguyễn Văn Tùng
 Deha-Academy-php-RestfullApi-Lab1
 
 ## Getting Started
-    `git clone https://github.com/Tung-Pro/Deha-Academy-php-RestfullApi-Lab1` 
+    `git clone https://github.com/Tung-Pro/Deha-Academy-php-RestfullApi-Lab1.git` 
 
     php artisan serv
 
